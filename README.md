@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodingMango, I like python... And python only.
+- 👀 I’m interested in python... And python only.
+- 🌱 I’m currently learning python... And python only.
+- 💞️ I’m looking to collaborate on python... And python only.
+- 📫 How to reach me: Look up and if you see some balls of fluff, thats me...
